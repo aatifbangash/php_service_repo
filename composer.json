@@ -1,0 +1,10 @@
+{
+    "name": "root/php_srv_repo_pattren",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
